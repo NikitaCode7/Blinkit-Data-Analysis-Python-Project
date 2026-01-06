@@ -61,4 +61,22 @@ The goal is to analyze sales performance, item characteristics, outlet types, an
 
 ---
 
- 📁 Project Structure
+---
+
+▶️ How to Run the Project
+1. Clone the repository  
+2. Open Jupyter Notebook  
+3. Run `Blinkit analysis in Python.ipynb`
+
+---
+
+ 👩‍💻 Author
+**Nikita Jadhav**  
+Aspiring Data Analyst  
+Python | Data Analysis | Power BI | SQL
+
+---
+
+⭐ If you found this project useful, please give it a star!
+
+ 
